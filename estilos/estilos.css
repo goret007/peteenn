@@ -1,28 +1,18 @@
 
 .borde{
-    border: 20px solid #c42c2c;
+    border: 200px solid #c42c2c;
 }
 .contenedor{
     background-color: black;
     padding: 35px;
 }
 .contenedor{
-    background-color: fuchsia;
+    background-color: #673567;
     text-align: center;
-    color: antiquewhite;
+    color: #765528;
     padding: 35px;
     border-radius: 50px;
-    border: 5px solid; color: greenyellow;
-}
-.contenedor{
-    margin-top: 500px;
-    margin-left: 500px;
-    margin-right: 500px;
-    margin-bottom: 500px;
-    border-radius: 50px;
-    background-color: blueviolet;
-    padding: 10px;
-    width: 35px;
+    border: 5px solid; color: #5b8914;
     
 }
 h1{
@@ -44,34 +34,4 @@ h1{
     text-align: center;
     color: cyan;
 }
-* h1
-        {
-            color:darkolivegreen;
-        }
-        p{
-            color: #061929;
-        }
-        h2
-        {
-            color:#6d4818;
-        }
-        
-        body{
-            background-color: rgb(124, 227, 99);
-        }
-        .contenedor{
-            background-color: #608889;
-            padding: 35px;
-        }
-        
-      
-    </style>
-    <body>
-        <div class="contenedor">
-           <h2>peten y sus tradiciones</h2>
-            
-        </div>
-    </body>
-</head>
-<body>
-   
+*
